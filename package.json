@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bulavackii/ws_backend.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bulavackii/ws_backend/issues"
+    "url": "https://"
   },
-  "homepage": "https://github.com/Bulavackii/ws_backend#readme",
+  "homepage": "https://",
   "devDependencies": {
-    "@koa/cors": "^5.0.0",
+    "@koa/cors": "^4.0.0",
     "forever": "^4.0.3",
     "http-event-stream": "^0.2.0",
     "koa": "^2.14.2",
@@ -28,11 +28,5 @@
     "koa-static": "^5.0.0",
     "uuid": "^9.0.0",
     "ws": "^8.13.0"
-  },
-  "dependencies": {
-    "broadway": "^4.1.0",
-    "flatiron": "^0.4.3",
-    "minimatch": "^9.0.3",
-    "nconf": "^0.12.1"
   }
 }
